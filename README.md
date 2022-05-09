@@ -29,3 +29,4 @@ In summary, the principal advantage to refactoring code lies in greatly increasi
 ### Advantages vs Disadvantages of Original vs Refactored Script
 
 With respect to our program, our refractored script is much simpler than the original. We were able to remove the double loop and replace it with a series of loops instead. This resulted in a 7x faster runtime for our program.
+![VBA_Challenge_Code](https://user-images.githubusercontent.com/103288980/167324422-9077478f-3d75-4b43-bfbe-762f7694eecf.PNG)
