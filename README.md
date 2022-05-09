@@ -24,7 +24,6 @@ Our analysis resulted in a large run time difference between the original and re
 
 ### Advantages vs Disadvantages of Refactoring code in general
 
-advantage is efficiency with comp resource usage. disadvantage is extra time.
 In summary, the principal advantage to refactoring code lies in greatly increasing the efficiency your program executes all of its calculations. While this difference seems small in our example, this could add up on much larger datasets. The main disadvantage to refractoring code is the additional time required to rewrite your subroutines.
 
 ### Advantages vs Disadvantages of Original vs Refactored Script
